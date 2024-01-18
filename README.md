@@ -1,17 +1,14 @@
 Link to unlisted YouTube video:
-https://youtu.be/syLovfaWj10
-
+https://youtu.be/XUcFk93PqKs
 
 Public link to the slide:
-https://docs.google.com/document/d/10T_waxZPaVQCjct3-MlkLsu19wIgbYAtRdaCN6Lxwok/edit#heading=h.x8htx7am8x4k
+https://docs.google.com/document/d/1eroRRIRsajuBtt4WtSADO1dFQENTWL1O7qu198eBSpU/edit?usp=sharing
 
 Paper title:
-Short-Term Traffic Speed Forecasting Using a Deep Learning Method Based on Multitemporal Traffic Flow Volume
-
+Detection of brain tumor in MRI images, using combination of fuzzy c-means and SVM
 
 Link to the paper:
-https://ieeexplore.ieee.org/document/9845396
-
+https://ieeexplore.ieee.org/document/7095308
 
 Group Number: 13
 
